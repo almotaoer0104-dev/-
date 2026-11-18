@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+itsdangerous==2.2.0
+python-docx==1.1.2
+python-dotenv==1.0.1
+argostranslate==1.9.6
+python-pptx==1.0.2
+openpyxl==3.1.5
+beautifulsoup4==4.12.3
+pymupdf==1.24.10
